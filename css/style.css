@@ -1,0 +1,55 @@
+
+button, input[type="submit"] {
+    width: auto;
+    padding: 9px 15px;
+    background: #cccccc;
+    border: 0;
+    font-size: 14px;
+    color: #FFFFFF;
+    margin-top: 10px;
+}
+.form-wrapper {
+    max-width: 400px;
+}
+.container {
+    padding: 20px 40px;
+}
+#errorsDisplay {
+    padding: 10px; 
+    border: 1px solid red;
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
